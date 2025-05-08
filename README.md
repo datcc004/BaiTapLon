@@ -9,6 +9,3 @@ Script Python để tự động thu thập bài viết từ trang [https://dant
 
 Kết quả được lưu vào file `.csv` mỗi ngày lúc **6h sáng**.
 
----
-
-##  Cài đặt
